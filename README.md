@@ -1,1 +1,1 @@
-# Runge Kutta method to solve for the system of linear ordinary differential equations
+# Runge Kutta family of methods to solve for the system of first-order ordinary differential equations
